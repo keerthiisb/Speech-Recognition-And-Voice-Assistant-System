@@ -1,3 +1,4 @@
+
 # Speech-Recognition-And-Voice-Assistant-System
 A Python-based voice assistant that uses speech recognition to process commands and text-to-speech to respond. It retrieves stock prices from a MySQL database, reads content from text files, and executes actions based on voice input.
 
@@ -70,4 +71,9 @@ Looping & Error Handling: The assistant continuously listens for commands and ha
 "Politics": The assistant will read the contents of the politics.txt file aloud.
 
 "Stop": The assistant will stop and exit.
+
+Screenshots
+
+![Screenshot 2024-12-19 053857](https://github.com/user-attachments/assets/86742e15-a497-4bb7-b5cb-513770ddad1c)
+
 
